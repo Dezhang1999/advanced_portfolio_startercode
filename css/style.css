@@ -1,18 +1,24 @@
 /* Nav Bar CSS */
-.nav-item{text-align:center;}
+.navbar-brand{
+    text-align:center;}
 
 /* Header CSS */
 
 
 
 /* Section CSS */
-.col-md-8{text-align:center; }
-#me{height:200px;
+.col-md-8{
+          text-align:center; 
+    
+}
+#me{
+    height:200px;
     margin: auto;
-    border:
 }
 h8
-{text-align:center;}
+{text-align:center
+
+;}
 
 /* About Section CSS */
 
